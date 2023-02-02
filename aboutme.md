@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: These are all of the things that I love to do and make me "me."
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Tekla Fine-Lease. I am 16 years old and am currently a junior at Queensbury High School. I grew up in Essex, New York, but recently moved to Queensbury to attend school. I have two older brothers, John Anthony (Assumption College) and Paul (Middlebury College).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+While I love to play golf, hockey, soccer, basketball, and more (you can visit my Golf and Hockey pages to learn more), I also enjoy gardening, cooking, and spending time with my rabbit, Nellie. 
 
-What else do you need?
+I have my own garden at home that my brother helped me build. I grow zucchini, squash, tomatoes, herbs, cucumbers,peppers, and more. I also love propagrating new plants. Some of my favorites include my peace lily, ogre ear, money tree, and African violet. 
 
-### My story
+I love to watch cooking shows and then try to recreate the dish with my own twist. My favorite reality chef is Barefoot Contessa. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

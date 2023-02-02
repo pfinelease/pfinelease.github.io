@@ -19,7 +19,8 @@ I have played all positions (besides goalie) throughout my young career, but I l
 
 # [CLICK HERE TO VIEW MY HOCKEY RECRUITING VIDEO](https://www.youtube.com/watch?v=ppN7CWXyyY0)
 
-
+library(vembedr)
+embed_url("https://www.youtube.com/watch?v=ppN7CWXyyY0")
 
 <img width="80%" alt="statechamp1" src="https://user-images.githubusercontent.com/122045871/216217392-e3e6e696-7689-44cc-afb6-966d1798c5c6.png">
 

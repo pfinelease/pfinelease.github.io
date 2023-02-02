@@ -21,5 +21,5 @@ This past summer also marked the first time I worked with my coach, Jonathan Yar
 **FUN FACT** I have 2 holes-in-one!
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/122045871/216205948-65fa696b-0bf2-43b5-a37b-7865c0df8555.png" alt="holeinone" width="40%"/> <img src="https://user-images.githubusercontent.com/122045871/216209738-2480e3a6-7513-4998-b06a-1edd0d54c156.png" alt="holeinone2" width="40%"/>
+<img src="https://user-images.githubusercontent.com/122045871/216205948-65fa696b-0bf2-43b5-a37b-7865c0df8555.png" alt="holeinone" width="45%"/> <img src="https://user-images.githubusercontent.com/122045871/216209738-2480e3a6-7513-4998-b06a-1edd0d54c156.png" alt="holeinone2" width="45%"/>
 </p>

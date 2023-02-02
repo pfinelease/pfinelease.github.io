@@ -2,7 +2,7 @@
 layout: post
 title: Hockey Recruiting
 subtitle: Videos and information about me
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/hockey1.png
+thumbnail-img: /assets/img/hockey2.png
+share-img: /assets/img/hockey1.png
 ---

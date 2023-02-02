@@ -15,4 +15,4 @@ I have my own garden at home that my brother helped me build. I grow zucchini, s
 
 I love to watch cooking shows and then try to recreate the dish with my own twist. My favorite reality chef is Barefoot Contessa. 
 
-<img width="571" alt="peppers" src="https://user-images.githubusercontent.com/122045871/216206343-ba7297bd-9959-4a5f-94e7-21bdf7079e38.png">
+<img width="571" alt="peppers" src="https://user-images.githubusercontent.com/122045871/216206343-ba7297bd-9959-4a5f-94e7-21bdf7079e38.png">{: .mx-auto.d-block :}

@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/TandP.jpg
 tags: [books, test]
 ---
-
+c/paulfl62
 ---
 layout: post
 title: Sample blog post
@@ -18,6 +18,9 @@ tags: [test]
 comments: true
 ---
 
+Beautiful Jekyll: "https://beautifuljekyll.com"
+Learn markdown: "https://www.markdowntutorial.com/"
+ 
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
